@@ -1,0 +1,9 @@
+allocation=1 chunk=8MB total=8MB
+allocation=2 chunk=8MB total=16MB
+allocation=3 chunk=8MB total=24MB
+allocation=4 chunk=8MB total=32MB
+allocation=5 chunk=8MB total=40MB
+allocation=6 chunk=8MB total=48MB
+allocation=7 chunk=8MB total=56MB
+allocation=8 chunk=8MB total=64MB
+allocation=9 chunk=8MB total=72MB
